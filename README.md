@@ -4,7 +4,7 @@ Hi 👋 My name is Mert ÇALIŞ
 Back-end Developer
 ------------------
 
-I am doing my master's degree in Electrical and Electronics Engineering at Gazi University. I have finished the semester of my master's degree. I have always worked on electricity, including my internships and undergraduate education, but with my master's degree, I changed my field and turned to software development. During this orientation process, I worked with C#, .Net, Angular in the C# Software Grower camp, which I participated in, and produced a fullstack RentACar project. For now (14.06.2022) I am working on Java at the Java Back-end breeder camp initiated by ÇASGEM and I am developing myself on Back-end technologies.
+I am doing my master's degree in Electrical and Electronics Engineering at Gazi University. I have finished the course semester of my master's degree. Next semester, i will start writing my thesis. I have always worked on electricity, including my internships and undergraduate education, but with my master's degree, I changed my field and turned to software development. During this orientation process, I worked with C#, .Net, Angular in the C# Software Grower camp, which I participated in, and produced a fullstack RentACar project. For now (14.06.2022) I am working on Java at the Java Back-end breeder camp initiated by ÇASGEM and I am developing myself on Back-end technologies.
 
 * 🌍  I'm based in Ankara
 * ✉️  You can contact me at [calisahmetmert@gmail.com](mailto:calisahmetmert@gmail.com)
